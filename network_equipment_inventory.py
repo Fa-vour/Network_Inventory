@@ -104,7 +104,7 @@ class InventoryApp:
             ("Maker", "maker"),
             ("Model", "model"),
             ("Serial Number", "serial_number"),
-            ("Barcode / Asset Tag", "barcode"),
+            # ("Barcode / Asset Tag", "barcode"),
             ("MAC Address", "mac_address"),
             ("Status *", "status"),
             ("Location", "location"),
